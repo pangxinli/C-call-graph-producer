@@ -6,7 +6,7 @@ chmod +x /usr/bin/tree2dotx.sh
 sudo ln -s /usr/bin/tree2dotx.sh /usr/bin/tree2dotx
 
 echo "install cflow..."
-sudo apt updata
+sudo apt update
 sudo apt install cflow
 sudo apt install gawk
 
